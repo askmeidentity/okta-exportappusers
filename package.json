@@ -1,6 +1,6 @@
 {
   "name": "okta-exportappusers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This script will get all the users in Okta Tenant and all the apps associated with them.",
   "main": "index.js",
   "scripts": {
